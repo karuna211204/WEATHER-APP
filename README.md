@@ -2,7 +2,7 @@
 
 This is a weather application where user can find the temperature and weather at a particular place.
 
-This is the link to website deployed using netlify.
+This is the link to website deployed using netlify.Have a look at it!
 https://weather-app-karuna.netlify.app/
 
 This is the working demo of application:
